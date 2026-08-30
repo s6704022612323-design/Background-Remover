@@ -1,0 +1,6 @@
+{
+  "name": "AI Background Remover",
+  "description": "เว็บแอปพลิเคชัน AI ตัดภาพพื้นหลังแยกบุคคลด้านหน้าสุดอัตโนมัติ รองรับภาพเดี่ยว ภาพคู่ และภาพหมู่ พร้อมฟังก์ชันเปรียบเทียบก่อน-หลังและดาวน์โหลดภาพโปร่งใส",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
